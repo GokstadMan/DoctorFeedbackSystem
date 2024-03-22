@@ -16,7 +16,7 @@ datasource db {
 model Doctor{
   id          Int      @id @default(autoincrement())
   firstname   String
-  lastme      String
+  lastname      String
   city        String
   description String
   reviews     Review[]

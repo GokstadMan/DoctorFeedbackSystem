@@ -1,0 +1,1 @@
+After cloned: 1. npm i express nodemon 2. npx nodemon -D, server running at 6000 just to check! 3. npm i prisma @prisma/client. npx prisma db push, sync with database 4. npx prisma studio 5. Use postman/thunder-client to add/delete/update/get books or add/delete/update/get reviews
